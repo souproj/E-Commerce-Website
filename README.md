@@ -43,15 +43,6 @@
 - Sql/MySql
 
 
-Note:- This is a basic Project so we have not think about the security and we have only implemented this project using the generic servlet
-
-#### "Suggestions and project Improvements are Invited!"
-
-<bold>Thanks a lot</bold><br/>
-                                                                                                        Project Creator<br/>
-                                                                                                         <b>Harshit Shakya</b>
-                                                                                                         
-
 <h1>This is Admin Page</h1>
 <img src="project images/admin page.png">
 
